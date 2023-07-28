@@ -37,4 +37,4 @@ $ pip install -r requirements.txt
 ```
 - Run index.py file
 
-## Contact details will be provided soon!
+## Contact details will be provided soon
